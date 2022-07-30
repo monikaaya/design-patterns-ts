@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "x": "node",
     "lint": "gts lint",
     "clean": "gts clean",
     "compile": "tsc",
